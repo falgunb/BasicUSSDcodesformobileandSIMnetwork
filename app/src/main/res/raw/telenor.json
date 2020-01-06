@@ -1,0 +1,184 @@
+{
+  "Telenor": [
+    {
+      "name": "Check Balance",
+      "code": "*363*4#"
+    },
+    {
+      "name": "Self Help (Customer Care)",
+      "code": "*121#"
+    },
+    {
+      "name": "Activate Caller Tune",
+      "code": "*444#"
+    },
+    {
+      "name": "Deactivate Caller Tune",
+      "code": "*444*9#"
+    },
+    {
+      "name": "Check SMS Balance",
+      "code": "*222*2#"
+    },
+    {
+      "name": "Check My Account, Current Plan Scheme, Offers & Other Services",
+      "code": "*121#"
+    },
+    {
+      "name": "Check Main Balance & Validity",
+      "code": "*363*4#"
+    },
+    {
+      "name": "Balance Check",
+      "code": "*222*2#"
+    },
+    {
+      "name": "Check your Mobile Number & Activation Date of Sim Card",
+      "code": "*222*4#"
+    },
+    {
+      "name": "Recharge your Mobile Number",
+      "code": "*222*Pin number#"
+    },
+    {
+      "name": "Latest Offers",
+      "code": "*555#"
+    },
+    {
+      "name": "Check USSD Codes of Balance Validity Mobile Number, Recharge Code",
+      "code": "*123#"
+    },
+    {
+      "name": "Customer Care Number",
+      "code": "121"
+    },
+    {
+      "name": "Complaint Number",
+      "code": "198"
+    },
+    {
+      "name": "Latest Offers",
+      "code": "*234#"
+    },
+    {
+      "name": "Check SIM Card Number",
+      "code": "*222*4#"
+    },
+    {
+      "name": "Credit Recharge Over USSD Service in Roaming",
+      "code": "*912*Voucher No#"
+    },
+    {
+      "name": "Product offers & Activation",
+      "code": "*234#"
+    },
+    {
+      "name": "Missed Call Alerts ‘MCA’",
+      "code": "*505#"
+    },
+    {
+      "code": "*777#",
+      "name": "Direct Recharge"
+    },
+    {
+      "code": "*123*16 digit PIN#",
+      "name": "Vas Content (On-mobile)"
+    },
+    {
+      "code": "*321#",
+      "name": "Facebook Application"
+    },
+    {
+      "code": "*325#",
+      "name": "Service Activation & De-Activation (Voice Services)"
+    },
+    {
+      "code": "*335#",
+      "name": "MMS"
+    },
+    {
+      "code": "*355	#",
+      "name": "My Offers"
+    },
+    {
+      "code": "*363#",
+      "name": "On-Deck Cricket Portal – One97"
+    },
+    {
+      "code": "*503	#",
+      "name": "Friends Chat – Deactivation (Bol India Bol)"
+    },
+    {
+      "code": "*510*1#",
+      "name": "Live Astrology – Deactivation (Bol India Bol)"
+    },
+    {
+      "code": "*510*2#",
+      "name": "Job Hunt Service -Deactivation (Bol India Bol)"
+    },
+    {
+      "code": "*510*3#",
+      "name": "Devotional Service -Deactivation (Bol India Bol)"
+    },
+    {
+      "code": "*510*5#",
+      "name": "Mobile Jockey Service -Deactivation (Bol India Bol)"
+    },
+    {
+      "code": "*510*6#",
+      "name": "Friends Chat – Activation (Bol India Bol)"
+    },
+    {
+      "name": "Live Astrology – Activation (Bol India Bol)",
+      "code": "*512#"
+    },
+    {
+      "name": "Job Hunt Service – Activation (Bol India Bol)",
+      "code": "*513#"
+    },
+    {
+      "name": "Devotional Service – Activation (Bol India Bol)",
+      "code": "*515#"
+    },
+    {
+      "name": "Mobile Jockey Service – Activation(Bol India Bol)",
+      "code": "*516#"
+    },
+    {
+      "name": "Hungama (Ringtone portal)",
+      "code": "*526#"
+    },
+    {
+      "name": "Hungama (Devotional portal)",
+      "code": "*527#"
+    },
+    {
+      "name": "India Games",
+      "code": "*629	#"
+    },
+    {
+      "name": "Techzone",
+      "code": "*630	#"
+    },
+    {
+      "name": "Hungama",
+      "code": "*631	#"
+    },
+    {
+      "name": "Onmobile Devotional",
+      "code": "*786#"
+    },
+    {
+      "name": "Hungama WAP Services",
+      "code": "*646	#"
+    },
+    {
+      "name": "Activate Caller Tune",
+      "code": "*444#"
+    },
+    {
+      "name": "Deactivate Caller Tune",
+      "code": "*444*9#"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "Reliance": [
+    {
+      "name": "Balance Check",
+      "code": "*367# or *306# or *402# or *702# or *333*1*1*1# or *333*1*2*1#"
+    },
+    {
+      "name": "Reliance Customer Care number",
+      "code": "198 or *369 or *333"
+    },
+    {
+      "name": "2G Net Balance",
+      "code": "*333*1*3*1# or *367*3#"
+    },
+    {
+      "name": "Special packs",
+      "code": "*777#"
+    },
+    {
+      "name": "Caller Tunes",
+      "code": "*999#"
+    },
+    {
+      "name": "Free Net",
+      "code": "*123*099#"
+    },
+    {
+      "name": "Special packs",
+      "code": "*777#"
+    },
+    {
+      "name": "Packs Information",
+      "code": "*123# or *321#"
+    },
+    {
+      "name": "Activate Caller Tune",
+      "code": "*999#"
+    },
+    {
+      "name": "Deactivate Caller Tune",
+      "code": "*333*3*1*2#"
+    },
+    {
+      "name": "GPRS Data Balance",
+      "code": "*367*3#"
+    },
+    {
+      "name": "Missed Call Alert",
+      "code": "*333*3*2*1#"
+    },
+    {
+      "name": "Reliance Caller Tune Activation Ussd code",
+      "code": "*333*3*1*1#"
+    },
+    {
+      "name": "Reliance Caller Tune Deactivation Ussd code",
+      "code": "*333*3*1*2#"
+    },
+    {
+      "name": "Reliance Missed Call Activate Ussd code",
+      "code": "*333*3*2*1#"
+    },
+    {
+      "name": "Reliance Missed Call Deactivate Ussd code",
+      "code": "*333*3*2*2#"
+    },
+    {
+      "name": "Reliance Hot News Activation Ussd code",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Best sellers Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Cricket Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance News Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Sports Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Movie Masala Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Love Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Fun Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance Astrology Activation Ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Reliance VAS ussd codes",
+      "code": "*333*1*4*1#"
+    },
+    {
+      "name": "Reliance Balance Check Ussd codes",
+      "code": "*367# or *306# or *402#"
+    },
+    {
+      "name": "Reliance Main Internet Data Balance Ussd Codes",
+      "code": "*111*1*3# or *333*1*3*1# or *367*3#"
+    },
+    {
+      "name": "Reliance Local Call Balance ussd codes",
+      "code": "*367*2#"
+    },
+    {
+      "name": "Reliance 3G Balance Check Ussd Codes",
+      "code": "*111*1*3#"
+    },
+    {
+      "name": "Reliance GPRS Balance Check USSD Codes",
+      "code": "*367*3#"
+    },
+    {
+      "name": "Reliance Ussd codes Main Menu (Prepaid)",
+      "code": "*111#"
+    },
+    {
+      "name": "Reliance Balance Check Ussd codes",
+      "code": "*367# or *306# or *402#"
+    },
+    {
+      "name": "Reliance Main Internet Data Balance Ussd Codes",
+      "code": "*111*1*3# or *333*1*3*1# or *367*3#"
+    },
+    {
+      "name": "Reliance Caller Tune Ussd codes",
+      "code": "*999#"
+    },
+    {
+      "name": "Reliance VAS ussd codes",
+      "code": "*333*1*4*1#"
+    },
+    {
+      "name": "Reliance Local Call Balance ussd codes",
+      "code": "*367*2#"
+    },
+    {
+      "name": "Reliance 3G Balance Check Ussd Codes",
+      "code": "*111*1*3#"
+    },
+    {
+      "name": "Reliance GPRS Balance Check USSD Codes",
+      "code": "*367*3#"
+    },
+    {
+      "name": "Reliance Customer Care number ussd codes",
+      "code": "198 or *369 or *333"
+    },
+    {
+      "name": "Reliance Know Own Number (Check Ussd codes)",
+      "code": "*1#"
+    },
+    {
+      "name": "Reliance Ussd codes Main Menu (Postpaid)",
+      "code": "*222#"
+    },
+    {
+      "name": "Reliance special deal ussd codes",
+      "code": "*789#"
+    }
+  ]
+}

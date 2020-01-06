@@ -1,0 +1,36 @@
+{
+  "Videocon": [
+    {
+      "code": "123#",
+      "name": "Balance Check:"
+    },
+    {
+      "code": "121",
+      "name": "Customer Care"
+    },
+    {
+      "code": "*123*2(16 digit code)#",
+      "name": "Recharge"
+    },
+    {
+      "code": "*141*amount#",
+      "name": "internet"
+    },
+    {
+      "code": "*141*9#",
+      "name": "All Local/National SMS@10p/SMS"
+    },
+    {
+      "code": "*123*2* 16-Digit-Voucher Pin#",
+      "name": "Recharge own number"
+    },
+    {
+      "code": "*123*3#",
+      "name": "Promotional Balance and Validity"
+    },
+    {
+      "code": "*1# or *1",
+      "name": "Know your own number"
+    }
+  ]
+}

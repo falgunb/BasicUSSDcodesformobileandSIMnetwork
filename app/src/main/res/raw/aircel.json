@@ -1,0 +1,292 @@
+{
+  "Aircel": [
+    {
+      "name": "Aircel number Check Code (find Know Aircel Phone No)",
+      "code": "*133#"
+    },
+    {
+      "name": "Aircel customer care number",
+      "code": "198 OR 1288"
+    },
+    {
+      "name": "Aircel Main Account Balance Check Code (Aircel talktime Balance check code)",
+      "code": "*121#"
+    },
+    {
+      "name": "Aircel Special Offer Check Code",
+      "code": "*121*1#"
+    },
+    {
+      "name": "Aircel Full talktime Offer Check Code",
+      "code": "*121*1#"
+    },
+    {
+      "name": "Aircel Loan USSD Code (Aircel talktime Loan Number)",
+      "code": "*414# OR *125#"
+    },
+    {
+      "name": "Aircel USSD Codes balance transfer",
+      "code": "*122*666#"
+    },
+    {
+      "name": "Aircel USSD Codes  Rate cutter plans",
+      "code": "*122#"
+    },
+    {
+      "name": "Aircel USSD Codes switch off mobile phone",
+      "code": "*21*904#"
+    },
+    {
+      "name": "Aircel USSD Codes Check IMIS No",
+      "code": "*222# or *2# or *214#"
+    },
+    {
+      "name": "Aircel USSD Codes For Recharge",
+      "code": "*124*<16 Digit Number>#"
+    },
+    {
+      "name": "Aircel ussd code to check Minutes Balance",
+      "code": "*126*9#"
+    },
+    {
+      "name": "Avail Balance enquire, Mini statement, Fund transfer",
+      "code": "*99#"
+    },
+    {
+      "name": "Airtel ussd Code to Transfer Balance",
+      "code": "*121*666#"
+    },
+    {
+      "name": "Aircel STD Packs",
+      "code": "*121*1*1#"
+    },
+    {
+      "name": "Aircel STD Pack – 1 Paisa/sec for 45 days",
+      "code": "*121*1*1# and type 1"
+    },
+    {
+      "name": "Aircel STD Pack – STD 25p @ Rs.22",
+      "code": "*121*1*1# and type 2"
+    },
+    {
+      "name": "Aircel STD Pack – 40p/ min @ Rs.46",
+      "code": "*121*1*1# and type 3"
+    },
+    {
+      "name": "Aircel STD Pack – RC36 – STD Aircel to Aircel @ 20p/400 mins",
+      "code": "*121*1*1# and type 4"
+    },
+    {
+      "name": "Aircel STD Pack – 115 Local/National mins @ Rs.65",
+      "code": "*121*1*1# and type 5"
+    },
+    {
+      "name": "Aircel STD Pack – RC65 – 20p Local/STD Aircel to Aircel 50p",
+      "code": "*121*1*1# and type 6"
+    },
+    {
+      "name": "Aircel STD Pack – Local/STD 1p/sec @50p",
+      "code": "*121*1*1# and type 7"
+    },
+    {
+      "name": "Aircel STD Pack  – Cohota STD @ 40p",
+      "code": "*121*1*1# and type 8"
+    },
+    {
+      "name": "Aircel STD Pack – STD 40p for 90 days @ Rs.54",
+      "code": "*121*1*1# and type 9"
+    },
+    {
+      "name": "Aircel STD Pack – STD 25p for 200 mins @ Rs.42",
+      "code": "*121*1*1# and type 10"
+    },
+    {
+      "name": "Aircel STD Pack – RC 47 – Local/STD mobile call @ 30p/min for 10 days",
+      "code": "*121*1*1# and type 11"
+    },
+    {
+      "name": "Aircel Local Pack",
+      "code": "*121*1*2#"
+    },
+    {
+      "name": "Aircel to Aircel Local and STD Packs",
+      "code": "*121*1*4#"
+    },
+    {
+      "name": "Cohota Recharge@ Rs.3",
+      "code": "*121*1*5#"
+    },
+    {
+      "name": "15p Calling Packs",
+      "code": "*121*1*6#"
+    },
+    {
+      "name": "Roming Packs",
+      "code": "*121*1*7#"
+    },
+    {
+      "name": "For Roming Recharge Dial",
+      "code": "*121*909#"
+    },
+    {
+      "name": "National Roaming Packs",
+      "code": "*121*1*7# and type 1"
+    },
+    {
+      "name": "International Roming Packs",
+      "code": "*121*1*7# and type 2"
+    },
+    {
+      "name": "New Roaming Rates",
+      "code": "*121*1*7# and type 3"
+    },
+    {
+      "name": "Roaming Helpline",
+      "code": "*121*1*7# and type 4"
+    },
+    {
+      "name": "Roaming Hanset Settings",
+      "code": "*121*1*7# and type 5"
+    },
+    {
+      "name": "3G Roaming Circles",
+      "code": "*121*1*7# and type 6"
+    },
+    {
+      "name": "Aircel ISD Packs",
+      "code": "*121*1*8#"
+    },
+    {
+      "name": "Chota ISD Pack @ Rs.7",
+      "code": "*121*1*8#  and type 1"
+    },
+    {
+      "name": "Nepal Pack @ Rs.15",
+      "code": "*121*1*8#  and type 2"
+    },
+    {
+      "name": "ISD at Rs.18",
+      "code": "*121*1*8#  and type 3"
+    },
+    {
+      "name": "ISD pay per sec@Rs.23",
+      "code": "*121*1*8#  and type 4"
+    },
+    {
+      "name": "Aircel 2G Data Packs",
+      "code": "*121*6#"
+    },
+    {
+      "name": "PI 7 – 40MB – 1Day",
+      "code": "*121*6*1#"
+    },
+    {
+      "name": "PI 9 – 60MB – 1Day",
+      "code": "*121*6*2#"
+    },
+    {
+      "name": "PI 14 – 1GB 2G Internet till midnight",
+      "code": "*121*6*3#"
+    },
+    {
+      "name": "PI 17 – 150MB – 3Days",
+      "code": "*121*6*4#"
+    },
+    {
+      "name": "PI 24 – 100MB 2G Data 7 Days",
+      "code": "*121*6*5#"
+    },
+    {
+      "name": "PI 58 – 250MB – 25Days",
+      "code": "*121*6*6#"
+    },
+    {
+      "name": "PI 29 – 200MB 2G Data for 5 Days",
+      "code": "*121*6*7#"
+    },
+    {
+      "name": "PI 52 – 400MB – 7Days",
+      "code": "*121*6*8#"
+    },
+    {
+      "name": "PI -53 -1GB -5Days",
+      "code": "*121*6*9#"
+    },
+    {
+      "name": "PI 74 – 600MB – 15Days",
+      "code": "*121*6*10#"
+    },
+    {
+      "name": "PI 98 – 1GB 2G – 21Days",
+      "code": "*121*6*11#"
+    },
+    {
+      "name": "PI 109 – UL (1GB) 2G – 25Days",
+      "code": "*121*6*12#"
+    },
+    {
+      "name": "PI 134 – UL (1GB) 2G – 28Days",
+      "code": "*121*6*13#"
+    },
+    {
+      "name": "PI 146 – UL (1GB) 2G – 30Days",
+      "code": "*121*6*14#"
+    },
+    {
+      "name": "15p STD Aircel to Aircel, 35p  STD A20 for 28 Days",
+      "code": "*121*6*15#"
+    },
+    {
+      "name": "PI 5- 20MB – Till Midnight",
+      "code": "*121*6*16#"
+    },
+    {
+      "name": "Aircel 3G Data Packs",
+      "code": "*121*6#"
+    },
+    {
+      "name": "Aircel SMS Packs",
+      "code": "*121*7#"
+    },
+    {
+      "name": "100 Local/National SMS @Rs.3/day",
+      "code": "*121*7*1#"
+    },
+    {
+      "name": "100 Local/National SMS @Rs.9  Valadity-10 Din",
+      "code": "*121*7*2#"
+    },
+    {
+      "name": "90Days Rate Cutter",
+      "code": "*121*8#"
+    },
+    {
+      "name": "Local @30p Rs.32",
+      "code": "*121*8# and type 2"
+    },
+    {
+      "name": "Roaming @45p Rs.37",
+      "code": "*121*8# and type 3"
+    },
+    {
+      "name": "STD @40p Rs.72",
+      "code": "*121*8# and type 4"
+    },
+    {
+      "name": "Loc/STD ap/sec@50p",
+      "code": "*121*8# and type 5"
+    },
+    {
+      "name": "Special Night Combo",
+      "code": "*121*11#"
+    },
+    {
+      "name": "Loan Service",
+      "code": "*121*9# or *414#"
+    },
+    {
+      "name": "Balance Transfer Amount 5, 10, 25, 50, 75, 100",
+      "code": "*121*666#"
+    }
+  ]
+}

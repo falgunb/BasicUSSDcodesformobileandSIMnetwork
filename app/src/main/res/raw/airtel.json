@@ -1,0 +1,112 @@
+{
+  "Airtel": [
+    {
+      "code": "*123#",
+      "name": "Airtel Balance Check"
+    },
+    {
+      "code": "121",
+      "name": "Airtel Customer Care Number"
+    },
+    {
+      "code": "198",
+      "name": "Airtel Complaint Number"
+    },
+    {
+      "code": "*123*10# or *123#",
+      "name": "Check for Free 2G Data Balance"
+    },
+    {
+      "code": "*123*11#",
+      "name": "Check for 3G Data Balance"
+    },
+    {
+      "code": "*121*8#",
+      "name": "Check for Airtel 4G Balanc"
+    },
+    {
+      "code": "*123*197#",
+      "name": "Airtel Night Data Balance"
+    },
+    {
+      "code": "*123*2# or *555#",
+      "name": "Check for  Local SMS Balance"
+    },
+    {
+      "code": "*141*10# or 52141",
+      "name": "Airtel Loan Number"
+    },
+    {
+      "code": "*121#",
+      "name": "My Airtel, My Offer"
+    },
+    {
+      "code": "*121*7#",
+      "name": "To Check Last 5 Transactions and also Value Added Services."
+    },
+    {
+      "code": "*123*6#",
+      "name": "Local Airtel to Airtel Night Minutes Balance"
+    },
+    {
+      "code": "*123*1#",
+      "name": "Check for Airtel to Airtel Mins Balance"
+    },
+    {
+      "code": "*123*7#",
+      "name": "Check for Free Local, STD SMS Balance"
+    },
+    {
+      "code": "*123*8#",
+      "name": "Check for Free STD Minutes Balance"
+    },
+    {
+      "code": "*141#",
+      "name": "Airtel Talk time Gift Service [Share or Ask Talk time ]"
+    },
+    {
+      "code": "*222#",
+      "name": "Special 5 Offers"
+    },
+    {
+      "code": "*321#",
+      "name": "Airtel Live Services"
+    },
+    {
+      "code": "*325#",
+      "name": "Free Facebook Access [Rs. 1 per day ]"
+    },
+    {
+      "code": "*515#",
+      "name": "Twitter Service"
+    },
+    {
+      "code": "*566#",
+      "name": "Airtel Special Offers and Rewards"
+    },
+    {
+      "code": "*567#",
+      "name": "GPRS(Activation/Deactivation)"
+    },
+    {
+      "code": "*678#",
+      "name": "Hello Tunes Menu"
+    },
+    {
+      "code": "*888#",
+      "name": "Missed Call Alert"
+    },
+    {
+      "code": "*777#",
+      "name": "Local National SMS Packs"
+    },
+    {
+      "code": "*282#",
+      "name": "Know Your own Airtel number"
+    },
+    {
+      "code": "*141*10#",
+      "name": "Airtel loan code"
+    }
+  ]
+}

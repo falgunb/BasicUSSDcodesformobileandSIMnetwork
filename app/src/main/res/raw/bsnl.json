@@ -1,0 +1,376 @@
+{
+  "BSNL": [
+    {
+      "name": "Balance& Validity",
+      "code": "*123#"
+    },
+    {
+      "name": "Bsnl customer care number",
+      "code": "1800-180-1503"
+    },
+    {
+      "name": "Minutes Balance",
+      "code": "*123*2#"
+    },
+    {
+      "name": "SMS Balance",
+      "code": "*123*1#  or *123*5# or *125#"
+    },
+    {
+      "name": "GPRS Data Balance",
+      "code": "*123*10#"
+    },
+    {
+      "name": "Network Call",
+      "code": "*123*5#"
+    },
+    {
+      "name": "Video Call Balance",
+      "code": "*123*9#"
+    },
+    {
+      "name": "GPRS Pack Balance",
+      "code": "*123*8#"
+    },
+    {
+      "name": "SMS Balance Enquiry",
+      "code": "*125#"
+    },
+    {
+      "name": "Last Call Charges Details",
+      "code": "*102#"
+    },
+    {
+      "name": "Voice pack info",
+      "code": "*126#"
+    },
+    {
+      "name": "Data Balance Enquiry",
+      "code": "*234#"
+    },
+    {
+      "name": "Local Network Call",
+      "code": "*123*6#"
+    },
+    {
+      "name": "2G Net Balance",
+      "code": "*123*10#"
+    },
+    {
+      "name": "Bsnl balance check ussd codes",
+      "code": "*123#"
+    },
+    {
+      "name": "Bsnl Internet balance check code",
+      "code": "*124#"
+    },
+    {
+      "name": "Bsnl (know) own number check code",
+      "code": "*222#"
+    },
+    {
+      "name": "Bsnl minute balance check ussd codes",
+      "code": "*123*5#"
+    },
+    {
+      "name": "Bsnl FnF number enquiry code",
+      "code": "124*6#"
+    },
+    {
+      "name": "Bsnl 3G Internet Data Balance check ussd code",
+      "code": "*124#"
+    },
+    {
+      "name": "Bsnl call detail check code",
+      "code": "*124#"
+    },
+    {
+      "name": "BSNL USSD code for Astrology Activation: ",
+      "code": "*456*21#"
+    },
+    {
+      "name": "BSNL USSD code for Astrology Deactivation:",
+      "name": "*456*22"
+    },
+    {
+      "name": "BSNL USSD code for auto tips Activation:",
+      "code": "*456*96#"
+    },
+    {
+      "name": "BSNL USSD code for auto tips deactivation:",
+      "code": "*456*97#"
+    },
+    {
+      "name": "BSNL USSD code for beauty tips Activation:",
+      "code": "*456*500#"
+    },
+    {
+      "name": "BSNL USSD code for beauty tips deactivation:",
+      "code": "*456*501#"
+    },
+    {
+      "name": "BSNL USSD code for Bollywood activation:",
+      "code": "*456*99#"
+    },
+    {
+      "name": "BSNL USSD code for Bollywood deactivation:",
+      "code": "*456*98#"
+    },
+    {
+      "name": "BSNL USSD code for Cricket activation:",
+      "code": "*456*55#"
+    },
+    {
+      "name": "BSNL USSD code for cricket deactivation:",
+      "code": "*456*56#"
+    },
+    {
+      "name": "BSNL USSD code for Gandhiji quotes activation:",
+      "code": "*456*08#"
+    },
+    {
+      "name": "BSNL USSD code for Gandhiji quotes deactivation:",
+      "code": "*456*09#"
+    },
+    {
+      "name": "BSNL USSD code for Geeta Activation:",
+      "code": "*456*71#"
+    },
+    {
+      "name": "BSNL USSD code for Geeta deactivation:",
+      "code": "*456*72#"
+    },
+    {
+      "name": "BSNL USSD code for General Knowledge activation:",
+      "code": "*456*508#"
+    },
+    {
+      "name": "BSNL USSD code for General Knowledge deactivation:",
+      "code": "*456*509#"
+    },
+    {
+      "name": "BSNL USSD Code for Gurbani Activation:",
+      "code": "*456*61#"
+    },
+    {
+      "name": "BSNL USSD code for gurbani deactivation:",
+      "code": "*456*62#"
+    },
+    {
+      "name": "BSNL USSD code for Health Tips activation:",
+      "code": "*456*636#"
+    },
+    {
+      "name": "BSNL USSD code for Health Tips deactivation:",
+      "code": "*456*637#"
+    },
+    {
+      "name": "BSNL USSD code for History activation:",
+      "code": "*456*77#"
+    },
+    {
+      "name": "BSNL USSD code for History Deactivation:",
+      "code": "*456*78#"
+    },
+    {
+      "name": "BSNL USSD Code for Mega Pack activation:",
+      "code": "*456*01#"
+    },
+    {
+      "name": "BSNL USSD Code for Mega Pack deactivation:",
+      "code": "*456*02#"
+    },
+    {
+      "name": "BSNL USSD Code for money matters activation:",
+      "code": "*456*43#"
+    },
+    {
+      "name": "BSNL USSD Code for Money matters deactivation:",
+      "code": "*456*44#"
+    },
+    {
+      "name": "BSNL USSD Code for Motivational Quotes Activation:",
+      "code": "*456*506#"
+    },
+    {
+      "name": "BSNL USSD Code for Motivational Quotes Activation:",
+      "code": "*456*507#"
+    },
+    {
+      "name": "BSNL USSD Code for myths Activation:",
+      "code": "*456*94#"
+    },
+    {
+      "name": "BSNL USSD code for myths deactivation:",
+      "code": "*456*95#"
+    },
+    {
+      "name": "BSNL USSD Code for News activation:",
+      "code": "*456*31#"
+    },
+    {
+      "name": "BSNL USSD code for News deactivation:",
+      "code": "*456*32#"
+    },
+    {
+      "name": "BSNL USSD Code for power of words activation:",
+      "code": "*456*88#"
+    },
+    {
+      "name": "BSNL USSD code for power of words deactivation:",
+      "code": "*456*89#"
+    },
+    {
+      "name": "BSNL USSD Code for Ramcharitmanas activation:",
+      "code": "*456*408#"
+    },
+    {
+      "name": "BSNL USSD code for ramcharitmanas deactivation:",
+      "code": "*456*409#"
+    },
+    {
+      "name": "BSNL USSD code for Sai Baba activation:",
+      "code": "*456*724#"
+    },
+    {
+      "name": "BSNL USSD code for Sai Baba deactivation:",
+      "code": "*456*725#"
+    },
+    {
+      "name": "BSNL USSD code for Stock activation:",
+      "code": "*456*41#"
+    },
+    {
+      "name": "BSNL USSD code for Stock deactivation:",
+      "code": "*456*42#"
+    },
+    {
+      "name": "BSNL USSD code for Freedom activation:",
+      "code": "*456*512#"
+    },
+    {
+      "name": "BSNL USSD code for Freedom deactivation:",
+      "code": "*456*513#"
+    },
+    {
+      "name": "BSNL USSD code for Kollywood activation:",
+      "code": "*456*522#"
+    },
+    {
+      "name": "BSNL USSD code for kollywood deactivation:",
+      "code": "*456*523#"
+    },
+    {
+      "name": "BSNL USSD code for Mollywood activation:",
+      "code": "*456*520#"
+    },
+    {
+      "name": "BSNL USSD code for mollywood deactivation:",
+      "code": "*456*521#"
+    },
+    {
+      "name": "BSNL USSD code for Navratri activation:",
+      "code": "*456*81#"
+    },
+    {
+      "name": "BSNL USSD code for Navratri deactivation:",
+      "code": "*456*82#"
+    },
+    {
+      "name": "BSNL USSD code for Shree Ganesha:",
+      "code": "*456*514#"
+    },
+    {
+      "name": "BSNL USSD code for Shree Ganesha:",
+      "code": "*456*515#"
+    },
+    {
+      "name": "BSNL USSD code for Shree Krishna activation:",
+      "code": "*456*516#"
+    },
+    {
+      "name": "BSNL USSD code for Shree Krishna activation:",
+      "code": "*456*517#"
+    },
+    {
+      "name": "BSNL USSD code for Tollywood activation:",
+      "code": "*456*518#"
+    },
+    {
+      "name": "BSNL USSD code for Tollywood activation:",
+      "code": "*456*519#"
+    },
+    {
+      "name": "BSNL USSD code for Karvachauth activation:",
+      "code": "*456*83#"
+    },
+    {
+      "name": "BSNL Ussd code for Karvachauth activation:",
+      "code": "*456*84#"
+    },
+    {
+      "name": "BSNL USSD code for Tips of Bride activation:",
+      "code": "*456*502#"
+    },
+    {
+      "name": "BSNL USSD code for tips of bride deactivation:",
+      "code": "*456*503#"
+    },
+    {
+      "name": "BSNL USSD code for Tips of Groom activation:",
+      "code": "*456*504#"
+    },
+    {
+      "name": "BSNL USSD code for tips of groom deactivation:",
+      "code": "*456*505#"
+    },
+    {
+      "name": "BSNL USSD code for Sardar Patel activation:",
+      "code": "*456*92#"
+    },
+    {
+      "name": "BSNL USSD code for Sardar patel deactivation:",
+      "code": "*456*93#"
+    },
+    {
+      "name": "BSNL USSD code for Diwali activation:",
+      "code": "*456*90#"
+    },
+    {
+      "name": "BSNL USSD code for diwali deactivation:",
+      "code": "*456*91#"
+    },
+    {
+      "name": "BSNL USSD code for Chacha Nehru activation:",
+      "code": "*456*14#"
+    },
+    {
+      "name": "BSNL USSD code for Chacha nehru deactivation:",
+      "code": "*456*15#"
+    },
+    {
+      "name": "BSNL USSD code for Indira Gandhi activation:",
+      "code": "*456*16#"
+    },
+    {
+      "name": "BSNL USSD code for Indira gandhi deactivation:",
+      "code": "*456*17#"
+    },
+    {
+      "name": "BSNL USSD code for Bakra-Eid activation:",
+      "code": "*456*786#"
+    },
+    {
+      "name": "BSNL USSD code for bakra- eid deactivation:",
+      "code": "*456*787#"
+    },
+    {
+      "name": "BSNL USSD code for Christmas activation:",
+      "code": "*456*18#"
+    },
+    {
+      "name": "BSNL USSD code for christmas deactivation:",
+      "code": "*456*19#"
+    }
+  ]
+}

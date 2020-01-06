@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#E7E7E7"
+    tools:context=".design.Activity_Carrier">
+
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <Button
+        android:id="@+id/cc_tv_aircel"
+        android:layout_width="match_parent"
+        android:layout_margin="4dp"
+        android:layout_height="wrap_content"
+        android:text="Aircel"
+        android:background="@drawable/boutton_ripple_effect"
+        android:paddingStart="5dp"
+        android:textStyle="bold"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="35sp"/>
+
+    <Button
+        android:id="@+id/cc_tv_airtel"
+        android:layout_width="match_parent"
+        android:layout_margin="4dp"
+        android:layout_height="wrap_content"
+        android:text="Airtel"
+        android:background="@drawable/boutton_ripple_effect"
+        android:paddingStart="5dp"
+        android:textStyle="bold"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="35sp"/>
+
+    <Button
+        android:id="@+id/cc_tv_bsnl"
+        android:layout_width="match_parent"
+        android:layout_margin="4dp"
+        android:layout_height="wrap_content"
+        android:text="BSNL"
+        android:background="@drawable/boutton_ripple_effect"
+        android:paddingStart="5dp"
+        android:textStyle="bold"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="35sp"/>
+
+
+        <Button
+            android:id="@+id/cc_tv_reliance"
+            android:layout_width="match_parent"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content"
+            android:text="Reliance"
+            android:background="@drawable/boutton_ripple_effect"
+            android:paddingStart="5dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="35sp"/>
+
+        <Button
+            android:id="@+id/cc_tv_telenor"
+            android:layout_width="match_parent"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content"
+            android:text="Telenor"
+            android:background="@drawable/boutton_ripple_effect"
+            android:paddingStart="5dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="35sp"/>
+
+        <Button
+            android:id="@+id/cc_tv_videocon"
+            android:layout_width="match_parent"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content"
+            android:text="Videocon"
+            android:background="@drawable/boutton_ripple_effect"
+            android:paddingStart="5dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="35sp"/>
+
+        <Button
+            android:id="@+id/cc_tv_vodafone"
+            android:layout_width="match_parent"
+            android:layout_margin="4dp"
+            android:layout_height="wrap_content"
+            android:text="Vodafone"
+            android:background="@drawable/boutton_ripple_effect"
+            android:paddingStart="5dp"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textSize="35sp"/>
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

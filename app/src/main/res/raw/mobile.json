@@ -1,0 +1,264 @@
+{
+  "mobile": [
+    {
+      "name": "To Know IMEI Number of Android",
+      "code": "*#06#"
+    },
+    {
+      "name": "GPS System Test",
+      "code": "*#*#1472365#*#*"
+    },
+    {
+      "name": "Reset Factory Date",
+      "code": "*#*#8255#*#*"
+    },
+    {
+      "name": "Current Firmware of SmartPhone",
+      "code": "*#*#7780#*#*"
+    },
+    {
+      "name": "Main Service Menu",
+      "code": "*#*#197328640#*#*"
+    },
+    {
+      "name": "General Information And Battery Info",
+      "code": "*#*#4636#*#*"
+    },
+    {
+      "name": "Power Button Change",
+      "code": "*#*#7594#*#*"
+    },
+    {
+      "name": "Testing Mode",
+      "code": "*#0*#"
+    },
+    {
+      "name": "Signal Status Service Mode",
+      "code": "*#0011#"
+    },
+    {
+      "name": "Factory Reset",
+      "code": "*#7780#"
+    },
+    {
+      "name": "Full Factory Reset",
+      "code": "*2767*3855#"
+    },
+    {
+      "name": "Factory data reset",
+      "code": "*#*#7780#*#*"
+    },
+    {
+      "name": "RIL Dump Menu",
+      "code": "*#745#"
+    },
+    {
+      "name": "Debug Dump Menu",
+      "code": "*#746#"
+    },
+    {
+      "name": "System Dump Mode",
+      "code": "*#9900#"
+    },
+    {
+      "name": "OTA Update Menu",
+      "code": "*#8736364#"
+    },
+    {
+      "name": "TSP / TSK firmware update",
+      "code": "*#2663#"
+    },
+    {
+      "name": "NAND Flash S/N",
+      "code": "*#03#"
+    },
+    {
+      "name": "Service Mode",
+      "code": "*#*#1111#*#*"
+    },
+    {
+      "name": "GPSR Tool.",
+      "code": "*#4777*8665#"
+    },
+    {
+      "name": "GCF Configuration",
+      "code": "*#4238378#"
+    },
+    {
+      "name": "GPS Control Menu",
+      "code": "*#1575#"
+    },
+    {
+      "name": "Diagnostic Configuration",
+      "code": "*#9090#"
+    },
+    {
+      "name": "USB I2C Mode Control—mount to usb for storage/modem",
+      "code": "*#7284#"
+    },
+    {
+      "name": "USB Logging Control",
+      "code": "*#872564#"
+    },
+    {
+      "name": "System dump mode- can dump logs for debugging",
+      "code": "*#9900#"
+    },
+    {
+      "name": "Camera Firmware Update",
+      "code": "*#34971539#"
+    },
+    {
+      "name": "Camera Firmware Menu",
+      "code": "*#7412365#"
+    },
+    {
+      "name": "Data Usage Status",
+      "code": "*#3282*727336*#"
+    },
+    {
+      "name": "Audio Loopback Control",
+      "code": "*#0283#"
+    },
+    {
+      "name": "Test History",
+      "code": "*#07#"
+    },
+    {
+      "name": "WLAN Test Mode",
+      "code": "*#232339#"
+    },
+    {
+      "name": "Bluetooth Test Mode",
+      "code": "*#232331#"
+    },
+    {
+      "name": "Bluetooth test",
+      "code": "*#*#232331#*#*"
+    },
+    {
+      "name": "Vibration Motor Test Mode",
+      "code": "*#0842#"
+    },
+    {
+      "name": "Real Time Clock Test",
+      "code": "*#0782#"
+    },
+    {
+      "name": "ADC Reading",
+      "code": "*#0228#"
+    },
+    {
+      "name": "Ciphering Info",
+      "code": "*#32489#"
+    },
+    {
+      "name": "Bluetooth Address",
+      "code": "*#232337#"
+    },
+    {
+      "name": "Audio Test Mode",
+      "code": "*#0673#"
+    },
+    {
+      "name": "General Test Mode",
+      "code": "*#0*#"
+    },
+    {
+      "name": "LBS Test Mode",
+      "code": "*#3214789650#"
+    },
+    {
+      "name": "Melody Test Mode",
+      "code": "*#0289#"
+    },
+    {
+      "name": "Light Sensor Test Mode",
+      "code": "*#0589#"
+    },
+    {
+      "name": "Proximity Sensor Test Mode",
+      "code": "*#0588#"
+    },
+    {
+      "name": "Proximity sensor test",
+      "code": "*#*#0588#*#*"
+    },
+    {
+      "name": "Touch screen test",
+      "code": "*#*#2664#*#*"
+    },
+    {
+      "name": "Vibration test",
+      "code": "*#*#0842#*#*"
+    },
+    {
+      "name": "Software Version Info",
+      "code": "*#44336#"
+    },
+    {
+      "name": "SW & HW Info",
+      "code": "*#12580*369#"
+    },
+    {
+      "name": "IMEI Number.",
+      "code": "*#06#"
+    },
+    {
+      "name": "Firmware Version.",
+      "code": "*#1234#"
+    },
+    {
+      "name": "Product code",
+      "code": "*#272*IMEI#*"
+    },
+    {
+      "name": "RAM version",
+      "code": "*#*#3264#*#*"
+    },
+    {
+      "name": "Phone Model",
+      "code": "*#92782#"
+    },
+    {
+      "name": "Phone/pda/csc info",
+      "code": "*#*#9999#*#*"
+    },
+    {
+      "name": "Enables voice dialing logging mode",
+      "code": "*#*#8351#*#*"
+    },
+    {
+      "name": "Disables voice dialing logging mode",
+      "code": "*#*#8350#*#*"
+    },
+    {
+      "name": "FTA Software version",
+      "code": "*#*#1111#*#*"
+    },
+    {
+      "name": "FTA Hardware verion",
+      "code": "*#*#2222#*#*"
+    },
+    {
+      "name": "For Google Talk service monitoring",
+      "code": "*#*#8255#*#*"
+    },
+    {
+      "name": "Packet Loopback test",
+      "code": "*#*#0283#*#*"
+    },
+    {
+      "name": "A Different type GPS test",
+      "code": "*#*#1575#*#*"
+    },
+    {
+      "name": "For a quick GPS test",
+      "code": "*#*#1472365#*#*"
+    },
+    {
+      "name": "USB Logging Control",
+      "code": "*#872564#"
+    }
+  ]
+}
